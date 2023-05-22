@@ -26,18 +26,18 @@ The modified code incorporates various efficiency improvements. Some notable sta
 <h2>Steps to Perform</h2>
 
 ```
-Step 1: Open Remix IDE for executing this particular smart contract with ease.<br>
-Step 2: Write (adviced) or paste the following code in the Remix IDE.<br>
-Step 3: Open Metamask extension and connect to Goerli testnet.<br>
-Step 4: Create an account in the Goerli network.<br>
-Step 5: Request free ether from https://faucet.metamask.io/<br>
-Step 6: Click on run.<br>
-Step 7: Select Injected Web3 Goerli under environment tab.<br> 
-Step 8: Click on create button.<br>
-Step 9: Click on submit in Metamask.<br>
-Step 10: Click on Metamask extension.<br>
-Step 11: Click on the contract deployment.<br>
-Step 12: Review your transaction details on Etherscan page.<br>
+Step 1: Open Remix IDE for executing this particular smart contract with ease.
+Step 2: Write (adviced) or paste the following code in the Remix IDE.
+Step 3: Open Metamask extension and connect to Goerli testnet.
+Step 4: Create an account in the Goerli network.
+Step 5: Request free ether from https://faucet.metamask.io/
+Step 6: Click on run.
+Step 7: Select Injected Web3 Goerli under environment tab.
+Step 8: Click on create button.
+Step 9: Click on submit in Metamask.
+Step 10: Click on Metamask extension.
+Step 11: Click on the contract deployment.
+Step 12: Review your transaction details on Etherscan page.
 ```
 
 Feel free to modify this template to fit your specific project, and let me know if you have any questions or need further assistance!
